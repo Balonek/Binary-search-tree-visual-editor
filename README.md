@@ -11,7 +11,7 @@
   - Number of elements
   - Minimum and maximum values
   - Tree depth (calculated dynamically)
-  - Traversals: Inorder, Preorder, Postorder
+  - Traversals: Inorder
 
 ## 🖼️ GUI Preview
 
