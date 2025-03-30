@@ -29,5 +29,5 @@ The UI consists of:
 - **QPushButton**, **QLineEdit**, **QLabel** for controls
 ## 📸 Preview
 
-![App Screenshot](https://github.com/user-attachments/assets/8a4b2e73-6554-4ca6-b1f0-62fabf0bc3bd)
+![BST GUI](screenshots/bst_gui.png)
 
