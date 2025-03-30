@@ -27,4 +27,7 @@ The UI consists of:
 - **Qt 6** (Widgets, Graphics)
 - **QGraphicsScene** and **QGraphicsView** for rendering
 - **QPushButton**, **QLineEdit**, **QLabel** for controls
+## 📸 Preview
+
+![App Screenshot](https://github.com/user-attachments/assets/8a4b2e73-6554-4ca6-b1f0-62fabf0bc3bd)
 
